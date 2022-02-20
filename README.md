@@ -1,6 +1,6 @@
 ### Hi!
 
-I'm Lena. 🇺🇸🇬🇧
+I'm Lena.
 
 I'm just about finishing my undergrad in Computer Engineering.
 
