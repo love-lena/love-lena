@@ -2,6 +2,6 @@
 
 I'm Lena.
 
-I am a computer engineer. 
+I am a: computer engineer, software engineer, web developer
 
-I like making physical things interact with digital things.
+My interests are many and constantly changing. 
